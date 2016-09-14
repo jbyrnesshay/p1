@@ -4,7 +4,7 @@ html {
 }
 body {
   background: White;
-  width: 100%;
+  min-width: 530px;
   height: 100%;
   margin: 0 auto;
   font-size: 100%;
@@ -18,8 +18,8 @@ body {
 }*/
 
 main {
-  width: 80%;
-  height: 65%;
+  width: 90%;
+  height: 75%;
   margin: 0 auto;
   padding: 5px;
 
@@ -32,21 +32,7 @@ main {
   height: 50%;
   bottom: 0;
 }
-article { 
-  text-transform: uppercase;
-  letter-spacing: .7em;
-  line-height: 1.5;
-  background: White;
-  height: 40%;
-  width: 30%;
-  display:inline-block;
-  margin: 5%;
-  border: 2em solid #f1f1f1;
-  border-radius: 50px;
-  
-  
-   
-}
+
 img {
   border-radius: 50%;
   margin-bottom:5px;
@@ -55,7 +41,7 @@ div {
   width: 80%;
   height: 30%;
   margin: 0 auto;
-
+  padding: 0;
   
   
 }
@@ -87,4 +73,20 @@ h1, h2 {
 h1 {
   text-transform: lowercase;
   letter-spacing: normal;
+}
+article { 
+   
+  text-transform: uppercase;
+ 
+  line-height: 1.5;
+  background: White;
+  height: 40%;
+  width: 30%;
+  display: inline-block;
+  margin: 5%;
+  border: 1em solid #f1f1f1;
+  border-radius: 50px;
+  border-spacing: 5%;
+  overflow-wrap:break-word;
+   
 }
