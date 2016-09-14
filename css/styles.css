@@ -106,7 +106,7 @@ article {
   margin: 5%;
   border: .5em solid #f1f1f1;
   border-radius: 50px;
-  border-spacing: 5%;
+   
   overflow-wrap:break-word;
   padding: 5px;
   top:0;
@@ -115,7 +115,7 @@ article {
 
 #name {
   border-radius: 0px;
-  border-spacing: none;
+   
    
   padding: 12px;
 
@@ -160,3 +160,4 @@ hr {
       bottom: auto;
       height: auto;
  }
+}
