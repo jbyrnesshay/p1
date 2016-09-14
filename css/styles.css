@@ -1,9 +1,13 @@
+
+
 body {
   background: Azure;
   width: 90%;
   height: 90%;
-  position: relative;
+  margin: 0 auto;
   font-size: 100%;
+  position: relative;
+
 }
 
 * {
@@ -11,8 +15,13 @@ body {
 }
 
 main {
-  width: 50%;
+  width: 80%;
   height: 60%;
+  margin: 0 auto;
+  position: relative;
+
+
+
 }
 .top {
   height: 50%;
@@ -22,17 +31,24 @@ main {
   height: 50%;
   bottom: 0;
 }
-article {
-  height: 100%;
-  width: 40%;
-  display: inline-block;
+article { 
+  text-transform: uppercase;
+  height: 40%;
+  width: 30%;
+  display:inline-block;
+  margin: 5%;
+  
+   
 }
 img {
   border-radius: 50%;
 }
 div {
-  width: 100%;
+  width: 80%;
   height: 40%;
+  margin: 0 auto;
+  
+  
 }
 .center {
    display: block;  
@@ -51,6 +67,9 @@ p {
   margin-top: 0;
   margin-bottom: 0;
 }
-h1 {
+h1, h2, h3 {
   font-size: 1.1em;
+}
+h1 {
+  text-transform: lowercase;
 }
