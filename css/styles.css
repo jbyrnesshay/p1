@@ -3,22 +3,54 @@ body {
   width: 90%;
   height: 90%;
   position: relative;
+  font-size: 100%;
 }
 
+* {
+  border: 1px solid black;
+}
+
+main {
+  width: 50%;
+  height: 60%;
+}
+.top {
+  height: 50%;
+  top: 0;
+}
+.bottom {
+  height: 50%;
+  bottom: 0;
+}
+article {
+  height: 100%;
+  width: 40%;
+  display: inline-block;
+}
 img {
   border-radius: 50%;
 }
-
+div {
+  width: 100%;
+  height: 40%;
+}
 .center {
    display: block;  
    margin: 0 auto;
 }
-.circle {
-   width: 300px;
-   height: 300px;
-   border-radius: 150px
-   -webkit-border-radius: 150px;
-   -moz-border-radius: 150px;
-   background-image: url('img/lion.png') no-repeat;
-   background-size: cover;
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h1 {
+  font-size: 1.1em;
 }

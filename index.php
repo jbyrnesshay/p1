@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+0<!DOCTYPE html>
 <html>
 <head>
   <title> P1: portal for DWA projects </title>
@@ -10,34 +10,33 @@
 	<img src="img/lion.png" class="center">	
 	
 	
-        
-	<div id="left">
-	<section>
-	<article>
-	Joachim Byrnes-Shay
-	csci e-15 dynamic web applications 
-	</article>
-	<article>
+        <main class="center">
+	  <div class="top">
+	    <article>
+	     <h1> Joachim Byrnes-Shay</h1>
+	      <h2>csci e-15 projects</h2> 
+	    </article>
 
-	project 2
-	live URL
-	github
-	</article>
-	</div>
-	<div id="right"
-	<section>
-	<article>
-	project 3
-	live URL
-	github
-	</article>
-	<article>
-	project 4
-	live URL
-	github
-	</article>
-	</div>
+	    <article>
+              <h3>project 2</h3>
+	      <a href="#"> live URL</a>
+	      <a href="#"> github</a>
+	    </article>
+	   </div>
 
+	  <div class="bottom">
+	    <article>
+	      <h3>project 3</h3>
+	      <a href="#"> live URL</a>
+	      <a href="#"> github</a>
+	    </article>
+	    <article>
+	      <h3>project 4</h3>
+	      <a href="#"> live URL</a>
+	      <a href="#">github</a>
+	    </article>
+          </div>
+	</main>
 
   </body>
 </html>
