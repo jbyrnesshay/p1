@@ -1,26 +1,27 @@
 
-
+html {
+  height: 100%;
+}
 body {
-  background: Azure;
-  width: 90%;
-  height: 90%;
+  background: White;
+  width: 100%;
+  height: 100%;
   margin: 0 auto;
   font-size: 100%;
-  position: relative;
+  font-family: Arial, sans-serif;
+  text-align: center;
 
 }
 
-* {
+/** {
   border: 1px solid black;
-}
+}*/
 
 main {
   width: 80%;
-  height: 60%;
+  height: 65%;
   margin: 0 auto;
-  position: relative;
-
-
+  padding: 5px;
 
 }
 .top {
@@ -33,20 +34,28 @@ main {
 }
 article { 
   text-transform: uppercase;
+  letter-spacing: .7em;
+  line-height: 1.5;
+  background: White;
   height: 40%;
   width: 30%;
   display:inline-block;
   margin: 5%;
+  border: 2em solid #f1f1f1;
+  border-radius: 50px;
+  
   
    
 }
 img {
   border-radius: 50%;
+  margin-bottom:5px;
 }
 div {
   width: 80%;
-  height: 40%;
+  height: 30%;
   margin: 0 auto;
+
   
   
 }
@@ -69,7 +78,13 @@ p {
 }
 h1, h2, h3 {
   font-size: 1.1em;
+  text-shadow: 2px 2px 8px #f8f8f8;
+}
+h1, h2 {
+  
+  height: 30%;
 }
 h1 {
   text-transform: lowercase;
+  letter-spacing: normal;
 }
