@@ -4,7 +4,7 @@ html {
 }
 body {
   background: White;
-  min-width: 530px;
+  /*min-width: 530px;*/
   height: 100%;
   margin: 0 auto;
   font-size: 100%;
@@ -140,3 +140,8 @@ hr {
         width: 80%;
         margin: 0 auto;
     }
+
+    /* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+}
