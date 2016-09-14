@@ -36,6 +36,9 @@ main {
 img {
   border-radius: 50%;
   margin-bottom:5px;
+  width: 200px;
+  height: 200px;
+  display: inline;
 }
 div {
   width: 80%;
@@ -44,6 +47,14 @@ div {
   padding: 0;
   
   
+}
+
+header {
+  margin: 0 auto;
+}
+header p {
+  display: inline;
+  vertical-align:top;
 }
 .center {
    display: block;  
@@ -62,7 +73,7 @@ p {
   margin-top: 0;
   margin-bottom: 0;
 }
-h1, h2, h3 {
+  h3 {
   font-size: 1.1em;
   text-shadow: 2px 2px 8px #f8f8f8;
 }
@@ -71,22 +82,61 @@ h1, h2 {
   height: 30%;
 }
 h1 {
-  text-transform: lowercase;
+   
   letter-spacing: normal;
+  font-size: 1.1em;
+  height: 35%;
+  margin-top: 0px;
+   
+   
+   }
+h2 {
+  font-size: 1em;
+  margin-top: 8px;
 }
 article { 
    
   text-transform: uppercase;
- 
+  letter-spacing: .5px;
   line-height: 1.5;
   background: White;
   height: 40%;
   width: 30%;
   display: inline-block;
   margin: 5%;
-  border: 1em solid #f1f1f1;
+  border: .5em solid #f1f1f1;
   border-radius: 50px;
   border-spacing: 5%;
   overflow-wrap:break-word;
+  padding: 5px;
+  top:0;
    
 }
+
+#name {
+  border-radius: 0px;
+  border-spacing: none;
+   
+  padding: 12px;
+
+
+}
+
+a {
+  display: block;
+}
+
+hr {
+  border-width: 7px;
+  margin-top:-7px;
+  border-style: solid;
+  border-color: #f1f1f0;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .left, .right {
+        float:none;
+        width: 80%;
+        margin: 0 auto;
+    }

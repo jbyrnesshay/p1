@@ -6,15 +6,16 @@
   <link href="css\styles.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-
-	<img src="img/lion.png" class="center">	
-	
+	<header>
+	   <img src="img/test.png" alt="joachim">
+	</header>
 	
         <main>
 	  <div class="top">
 	   
-	    <article  >
+	    <article id="name" class="left" >
 	     <h1> Joachim Byrnes-Shay</h1>
+	      <hr>
 	      <h2>csci e-15 projects</h2> 
 	    </article>
 		
@@ -28,7 +29,7 @@
 
 	  <div class="bottom">
 	   
-	    <article  >
+	    <article class="left" >
 	      <h3>project 3</h3>
 	      <a href="#"> live URL</a>
 	      <a href="#"> github</a>
