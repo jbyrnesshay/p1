@@ -1,15 +1,16 @@
-# P1:  first project for DWA15
+# P1: portal for DWA projects
 
 ## Live URL
 <http://p1.midnightoil.me>
 
 ## Description
-This project is construction of a page which will server as a portal to the remaining DWA15 semester projects, fall 2016.
+Project #1 for CSCI E-15, fall 2016.
+A portal to the remaining DWA15 semester projects.
 
 ## Screencast link
 <http://somelink.com>
 
-## Details for instructores
+## Details for instructors
 No login required
 
 ## outside code
