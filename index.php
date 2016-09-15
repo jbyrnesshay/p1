@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Joachim Byrnes-Shay, P1: CSCI E-15 Projects Portal 
+    <title> Joachim Byrnes-Shay, P1: CSCI E-15 Projects Portfolio 
 </title>
     <meta charset="utf-8">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
@@ -10,7 +10,7 @@
     <header>
     	 <h1> Joachim Byrnes-Shay</h1>
 	      <hr>
-	        <h2>csci e-15 projects portal</h2> 
+	        <h2>csci e-15  P1: Projects Portfolio</h2> 
 	   <img src="img/pic.png" alt="joachim">
 	</header>
 	<main>
