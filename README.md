@@ -4,7 +4,7 @@
 <http://p1.midnightoil.me>
 
 ## Description
-2-3 sentences here A portal for DWA15 semester projects
+This project is construction of a page which will server as a portal to the remaining DWA15 semester projects, fall 2016.
 
 ## Screencast link
 <http://somelink.com>
@@ -13,6 +13,6 @@
 No login required
 
 ## outside code
-maybe I bootstrap?
+none
 
 
