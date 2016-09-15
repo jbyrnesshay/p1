@@ -7,7 +7,7 @@
 </head>
 <body>
 	<header>
-	   <img src="img/test.png" alt="joachim">
+	   <img src="img/transp.png" alt="joachim">
 	</header>
 	
         <main>
@@ -21,27 +21,28 @@
 		
 	    <article class="right"  >
               <h3>project 2</h3>
-	      <a href="#"> live URL</a>
-	      <a href="#"> github</a>
+	      live: <a href="#"> URL</a> <br>
+	      github: <a href="#"> URL</a>
 	    </article>
 	    
 	   </div>
 
 	  <div class="bottom">
 	   
-	    <article class="left" >
+	    <article class="left"   >
 	      <h3>project 3</h3>
-	      <a href="#"> live URL</a>
-	      <a href="#"> github</a>
+	      live: <a href="#">URL</a> <br>
+	      github: <a href="#">URL</a>
 	    </article>
 	    <article class="right" >
 	      <h3>project 4</h3>
-	      <a href="#"> live URL</a>
-	      <a href="#">github</a>
+	      live: <a href="#"> URL</a> <br>
+	      github: <a href="#">URL</a>
 	    </article>
 
           </div>
 	</main>
-
+ 
   </body>
+}
 </html>
