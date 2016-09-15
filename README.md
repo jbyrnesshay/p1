@@ -8,7 +8,7 @@ Project #1 for CSCI E-15, fall 2016.
 A portal to the remaining DWA15 semester projects.
 
 ## Screencast link
-<http://screencast.com/t/CLaxQ1G1P>
+<http://screencast.com/t/eAhO8Svz0TzJ>
 
 ## Details for instructors
 No login required
