@@ -1,4 +1,4 @@
-# P1: portal for DWA projects
+# P1:  CSCI E-15 Projects Portal, Joachim Byrnes-Shay
 
 ## Live URL
 <http://p1.midnightoil.me>
